@@ -1,5 +1,52 @@
 # 💫 About Me:
 🎓 Computer Science & Data Science student at Rutgers University – New Brunswick<br>🤖 Aspiring AI / Machine Learning Engineer<br>📊 Passionate about turning data into intelligent systems<br><br>🔭 I’m currently working on<br><br>AI & Machine Learning projects (classification, regression, deep learning)<br><br>Building end-to-end ML pipelines using Python, PyTorch, scikit-learn<br><br>Data analysis & visualization projects using Pandas, NumPy, Tableau, Power BI<br><br>Academic and personal projects focused on real-world problem solving<br><br>👯 I’m looking to collaborate on<br><br>Machine Learning & Deep Learning projects<br><br>AI-powered applications and tools<br><br>Data Science projects involving EDA, modeling, and visualization<br><br>Open-source ML/AI or analytics repositories<br><br>🤝 I’m looking for help with<br><br>Improving model performance and evaluation techniques<br><br>Deploying ML models (Flask, APIs, cloud platforms)<br><br>Learning best practices for scalable and production-ready ML systems<br><br>Interview prep for AI / ML Engineer and Data Scientist roles<br><br>🌱 I’m currently learning<br><br>Machine Learning algorithms & theory<br><br>Deep Learning (CNNs, Neural Networks, model optimization)<br><br>AI system design and applied ML<br><br>Cloud & MLOps fundamentals<br><br>Data-driven decision making<br><br>💬 Ask me about<br><br>Machine Learning fundamentals<br><br>Data analysis and visualization<br><br>Python for data science<br><br>Academic projects in AI/ML and Data Science<br><br>How I’m preparing for AI/ML engineering roles<br><br>⚡ Fun fact<br><br>I enjoy breaking down complex ML concepts into simple ideas—and I’m always experimenting with models to see why they work, not just that they work.<br><br>🛠️ Tech Stack<br><br>Languages: Python, SQL, Java, R<br>ML & AI: scikit-learn, PyTorch, TensorFlow (learning)<br>Data: Pandas, NumPy, Matplotlib, Seaborn<br>Visualization: Tableau, Power BI<br>Tools: Git, GitHub, Jupyter Notebook, VS Code
+# 💫 About Me:
+🎓 Computer Science & Data Science student at Rutgers University – New Brunswick<br>
+🤖 Aspiring AI / Machine Learning Engineer<br>
+📊 Passionate about turning data into meaningful, real-world insights<br><br>
+
+🔭 I’m currently working on<br><br>
+🤖 AI & Machine Learning projects (classification, regression, NLP)<br><br>
+⚙️ Building end-to-end ML pipelines using Python, scikit-learn, PyTorch<br><br>
+📊 Data analysis & visualization projects using Pandas, NumPy, Tableau, Power BI<br><br>
+🧠 Academic and personal projects focused on solving real-world problems with data<br><br>
+
+👯 I’m looking to collaborate on<br><br>
+🤖 Machine Learning & Deep Learning projects<br><br>
+📊 Data Analytics and Visualization projects<br><br>
+🧩 AI-powered applications and intelligent tools<br><br>
+🌍 Open-source ML, AI, or analytics repositories<br><br>
+
+🤝 I’m looking for help with<br><br>
+📈 Improving model performance and evaluation techniques<br><br>
+☁️ Deploying ML models (Flask APIs, cloud platforms, Docker)<br><br>
+⚙️ Learning best practices for scalable, production-ready ML systems<br><br>
+🎯 Interview preparation for Data Analyst, AI/ML Engineer, and Data Scientist roles<br><br>
+
+🌱 I’m currently learning<br><br>
+📘 Machine Learning algorithms & theory<br><br>
+🧠 Deep Learning (Neural Networks, CNNs, model optimization)<br><br>
+☁️ AI system design, cloud workflows, and MLOps fundamentals<br><br>
+📊 Data-driven decision making and business analytics<br><br>
+
+💬 Ask me about<br><br>
+📊 Data analysis and visualization<br><br>
+🤖 Machine Learning fundamentals<br><br>
+🐍 Python for data science<br><br>
+🧠 Academic and real-world AI/ML projects<br><br>
+🚀 How I’m preparing for AI/ML and Data Analytics roles<br><br>
+
+⚡ Fun fact<br><br>
+I enjoy breaking down complex ML concepts into simple ideas — and I learn best by building and experimenting, not just reading about them.<br><br>
+
+🛠️ Tech Stack<br><br>
+Languages: Python, SQL, Java, R<br>
+ML & AI: scikit-learn, PyTorch, TensorFlow (learning), NLP, LLMs<br>
+Data: Pandas, NumPy, Matplotlib, Seaborn<br>
+Visualization: Tableau, Power BI<br>
+Databases: MySQL, PostgreSQL, Snowflake<br>
+Tools: Git, GitHub, Docker, Jupyter Notebook, VS Code, Flask
+
 
 
 ## 🌐 Socials:

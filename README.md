@@ -64,13 +64,19 @@ Currently seeking full-time roles in **AI/ML Engineering**, **Data Science**, or
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajshah1909&theme=tokyonight&hide_border=true&show_icons=true&count_private=false"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah1909&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajshah1909&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rajshah1909&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajshah1909&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajshah1909&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rajshah1909&theme=tokyonight&hide_border=true" />
 </div>
 
 ---

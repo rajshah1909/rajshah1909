@@ -26,10 +26,9 @@ Currently seeking full-time roles in **AI/ML Engineering**, **Data Science**, or
 | Project | What It Does | Stack | Result |
 |---|---|---|---|
 | 🤖 **[RU-PATH](https://github.com/rajshah1909/ru-path)** | RAG chatbot for Rutgers campus navigation | LangChain · FastAPI · Docker | **99% uptime** in production |
-| 📈 **Decoding the Fed** | NLP model predicting treasury yield curves from Fed language | FinBERT · XGBoost · Python | **0.0865 RMSE** on test set |
-| 🧠 **CNN Digit Classifier** | End-to-end convolutional neural network on MNIST | PyTorch | **98.83% accuracy** |
-| 🚨 **EvacAI** | AI evacuation routing system — IBM Z × UNSA Hackathon 2026 | IBM watsonx · Granite | Hackathon build |
-| 🛡️ **Spam Detector** | Logistic regression SMS spam classifier | scikit-learn · Python | **96.14% accuracy** |
+| 📈 **[Decoding the Fed](https://github.com/rajshah1909/ds-project)** | NLP model predicting treasury yield curves from Fed language | FinBERT · XGBoost · Python | **0.0865 RMSE** on test set |
+| 🧠 **[CNN Digit Classifier](https://github.com/rajshah1909/rutgers-coursework/tree/main/Machine%20Learning/HW4)** | End-to-end convolutional neural network on MNIST | PyTorch | **98.83% accuracy** |
+| 🚨 **[EvacAI](https://github.com/milipatel1309/EvacAI)** | AI evacuation routing system — IBM Z × UNSA Hackathon 2026 | IBM watsonx · Granite | Hackathon build |
 
 ---
 

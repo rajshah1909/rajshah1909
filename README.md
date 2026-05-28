@@ -1,5 +1,9 @@
-<div align="center">
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rajshah1909/rajshah1909/main/banner.png" width="100%" alt="Raj Shah - AI/ML Engineer"/>
+</div>
+
+<br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raj+Shah+%F0%9F%91%8B;AI%2FML+Engineer+%40+Boundary+RSS;Rutgers+CS+%26+Data+Science+%E2%80%94+Magna+Cum+Laude;Building+RAG+%7C+NLP+%7C+Production+ML+Systems)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-shah-ai/)

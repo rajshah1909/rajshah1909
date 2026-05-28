@@ -66,12 +66,12 @@ Currently seeking full-time roles in **AI/ML Engineering**, **Data Science**, or
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajshah1909&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah1909&theme=dark&hide_border=true&layout=compact&count_private=false" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajshah1909&theme=tokyonight&hide_border=true&show_icons=true&count_private=false"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah1909&theme=tokyonight&hide_border=true&layout=compact"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rajshah1909&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=rajshah1909&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -93,6 +93,6 @@ Currently seeking full-time roles in **AI/ML Engineering**, **Data Science**, or
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=rajshah1909&icon=6&color=6)
+[![](https://komarev.com/ghpvc/?username=rajshah1909&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rajshah1909)
 
 </div>

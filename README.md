@@ -1,8 +1,14 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/rajshah1909/rajshah1909/main/raj_shah_github_banner.png" width="100%" alt="Raj Shah - AI/ML Engineer"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raj+Shah+%F0%9F%91%8B;AI%2FML+Engineer+%40+Boundary+RSS;Rutgers+CS+%26+Data+Science+%E2%80%94+Magna+Cum+Laude;Building+RAG+%7C+NLP+%7C+Production+ML+Systems)](https://git.io/typing-svg)
 
-[/Users/rajshah/Downloads/README.md![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-shah-ai/)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-shah-ai/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://rajshah1909.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajshah.ap302@gmail.com)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00A36C?style=for-the-badge&logo=handshake&logoColor=white)](#)

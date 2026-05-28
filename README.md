@@ -61,10 +61,6 @@ Currently seeking full-time roles in **AI/ML Engineering**, **Data Science**, or
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ---
-## Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajshah1909&theme=tokyo-night&hide_border=true&area=true&hide_title=true"/>
-
 ## Contribution Graph
 
 <picture>

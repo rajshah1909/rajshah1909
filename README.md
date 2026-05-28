@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rajshah1909/rajshah1909/main/raj_shah_github_banner.png" width="100%" alt="Raj Shah - AI/ML Engineer"/>
+  <img src="https://raw.githubusercontent.com/rajshah1909/rajshah1909/main/banner.png" width="100%" alt="Raj Shah - AI/ML Engineer"/>
 </div>
 
 <br/>

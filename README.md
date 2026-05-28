@@ -1,63 +1,98 @@
-# 💫 About Me:
-🎓 Computer Science & Data Science student at Rutgers University – New Brunswick<br>
-🤖 Aspiring AI / Machine Learning Engineer<br>
-📊 Passionate about turning data into meaningful, real-world insights<br><br>
+<div align="center">
 
-🔭 I’m currently working on<br><br>
-🤖 AI & Machine Learning projects (classification, regression, NLP)<br><br>
-⚙️ Building end-to-end ML pipelines using Python, scikit-learn, PyTorch<br><br>
-📊 Data analysis & visualization projects using Pandas, NumPy, Tableau, Power BI<br><br>
-🧠 Academic and personal projects focused on solving real-world problems with data<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Raj+Shah+%F0%9F%91%8B;AI%2FML+Engineer+%40+Boundary+RSS;Rutgers+CS+%26+Data+Science+%E2%80%94+Magna+Cum+Laude;Building+RAG+%7C+NLP+%7C+Production+ML+Systems)](https://git.io/typing-svg)
 
-👯 I’m looking to collaborate on<br><br>
-🤖 Machine Learning & Deep Learning projects<br><br>
-📊 Data Analytics and Visualization projects<br><br>
-🧩 AI-powered applications and intelligent tools<br><br>
-🌍 Open-source ML, AI, or analytics repositories<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-shah-ai/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://rajshah1909.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajshah.ap302@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00A36C?style=for-the-badge&logo=handshake&logoColor=white)](#)
 
-🤝 I’m looking for help with<br><br>
-📈 Improving model performance and evaluation techniques<br><br>
-☁️ Deploying ML models (Flask APIs, cloud platforms, Docker)<br><br>
-⚙️ Learning best practices for scalable, production-ready ML systems<br><br>
-🎯 Interview preparation for Data Analyst, AI/ML Engineer, and Data Scientist roles<br><br>
-
-🌱 I’m currently learning<br><br>
-📘 Machine Learning algorithms & theory<br><br>
-🧠 Deep Learning (Neural Networks, CNNs, model optimization)<br><br>
-☁️ AI system design, cloud workflows, and MLOps fundamentals<br><br>
-📊 Data-driven decision making and business analytics<br><br>
-
-💬 Ask me about<br><br>
-📊 Data analysis and visualization<br><br>
-🤖 Machine Learning fundamentals<br><br>
-🐍 Python for data science<br><br>
-🧠 Academic and real-world AI/ML projects<br><br>
-🚀 How I’m preparing for AI/ML and Data Analytics roles<br><br>
-
-⚡ Fun fact<br><br>
-I enjoy breaking down complex ML concepts into simple ideas — and I learn best by building and experimenting, not just reading about them.<br><br>
-
-🛠️ Tech Stack<br><br>
-Languages: Python, SQL, Java, R<br>
-ML & AI: scikit-learn, PyTorch, TensorFlow (learning), NLP, LLMs<br>
-Data: Pandas, NumPy, Matplotlib, Seaborn<br>
-Visualization: Tableau, Power BI<br>
-Databases: MySQL, PostgreSQL, Snowflake<br>
-Tools: Git, GitHub, Docker, Jupyter Notebook, VS Code, Flask
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-shah-ai/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajshah.ap302@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajshah1909&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rajshah1909&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah1909&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rajshah1909&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I'm an AI/ML Engineer building production-grade systems at **Boundary RSS**. I graduated *Magna Cum Laude* (3.79 GPA, Dean's List, Honors) from **Rutgers University – New Brunswick** with a double major in Computer Science and Data Science.
+
+I transferred from community college, made it to the Honors program, and shipped real systems along the way — a RAG chatbot running at 99% uptime, an NLP yield-curve model at 0.0865 RMSE, and a CNN classifier at 98.83% accuracy. I learn by building, not just reading.
+
+Currently seeking full-time roles in **AI/ML Engineering**, **Data Science**, or **Data Engineering**.
+
+---
+
+## Featured Projects
+
+| Project | What It Does | Stack | Result |
+|---|---|---|---|
+| 🤖 **[RU-PATH](https://github.com/rajshah1909/ru-path)** | RAG chatbot for Rutgers campus navigation | LangChain · FastAPI · Docker | **99% uptime** in production |
+| 📈 **Decoding the Fed** | NLP model predicting treasury yield curves from Fed language | FinBERT · XGBoost · Python | **0.0865 RMSE** on test set |
+| 🧠 **CNN Digit Classifier** | End-to-end convolutional neural network on MNIST | PyTorch | **98.83% accuracy** |
+| 🚨 **EvacAI** | AI evacuation routing system — IBM Z × UNSA Hackathon 2026 | IBM watsonx · Granite | Hackathon build |
+| 🛡️ **Spam Detector** | Logistic regression SMS spam classifier | scikit-learn · Python | **96.14% accuracy** |
+
+---
+
+## Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**ML / AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=python&logoColor=white)
+
+**Data & Visualization**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Infrastructure**
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajshah1909&theme=dark&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah1909&theme=dark&hide_border=true&layout=compact&count_private=false" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rajshah1909&theme=dark&hide_border=true"/>
+</div>
+
+---
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajshah1909/rajshah1909/output/github-snake-dark.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rajshah1909/rajshah1909/output/github-snake.svg"/>
+</picture>
+
+---
+
+## Currently
+
+- 🔨 Building AI/ML systems at **Boundary RSS**
+- 📬 Open to full-time **AI/ML Engineer · Data Scientist · Data Engineer** roles
+- 📫 **rajshah.ap302@gmail.com** — I respond within 24 hours
+
+<div align="center">
+
+![Profile Views](https://visitcount.itsvg.in/api?id=rajshah1909&icon=6&color=6)
+
+</div>

@@ -72,6 +72,7 @@ Currently seeking full-time roles in **AI/ML Engineering**, **Data Science**, or
 
 ## Currently
 
+- 🎓 Magna Cum Laude · 3.79 GPA · Dean's List · Honors Program · Phi Theta Kappa
 - 🔨 Building AI/ML systems at **Boundary RSS**
 - 📬 Open to full-time **AI/ML Engineer · Data Scientist · Data Engineer** roles
 - 📫 **rajshah.ap302@gmail.com** — I respond within 24 hours

@@ -61,8 +61,16 @@ Currently seeking full-time roles in **AI/ML Engineering**, **Data Science**, or
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ---
-
 ## GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajshah1909&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah1909&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rajshah1909&theme=tokyonight&hide_border=true" />
+</div>
 
 ## GitHub Stats
 

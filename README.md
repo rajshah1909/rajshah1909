@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-shah-ai/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://rajshah1909.github.io/)
-[![Resume](https://img.shields.io/badge/Resume-FFB000?style=for-the-badge&logo=readdotcv&logoColor=black)](https://rajshah1909.github.io/Raj_Shah_Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajshah.ap302@gmail.com)
 
 </div>

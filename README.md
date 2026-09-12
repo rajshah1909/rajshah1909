@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rajshah1909/rajshah1909/main/banner.png" width="100%" style="display:block;margin:0;padding:0;" alt="Raj Shah - Application Developer"/>
+  <img src="https://raw.githubusercontent.com/rajshah1909/rajshah1909/blob/main/banner.png" width="100%" style="display:block;margin:0;padding:0;" alt="Raj Shah - Application Developer"/>
 </div>
 
 <br/>
